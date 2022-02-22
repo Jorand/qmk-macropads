@@ -1,0 +1,12 @@
+{
+  "name": "MoJojo RATP Macropad",
+  "vendorId": "0xFEED",
+  "productId": "0x0601",
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 2},
+  "layouts": {
+    "keymap": [
+      [{"w":1.75,"h":1.75}, "0,0", {"w":1.75,"h":1.75}, "0,1"]
+    ]
+  }
+}

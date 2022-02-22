@@ -1,0 +1,13 @@
+{
+    "keyboard_name": "Mojojo RATP",
+    "url": "",
+    "maintainer": "Jorand",
+    "layouts": {
+      "LAYOUT": {
+        "layout": [
+          {"label":"PCL", "x": 0, "y": 0, "w": 1.75, "h": 1.75},
+          {"label":"PG", "x": 0, "y": 0, "w": 1.75, "h": 1.75}
+        ]
+      }
+    }
+  }
