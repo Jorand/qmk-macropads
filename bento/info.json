@@ -1,0 +1,20 @@
+{
+  "keyboard_name": "Bento Macropad",
+  "url": "https://www.thingiverse.com/thing:4416966",
+  "maintainer": "Ghostseven",
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {"label":"Fn", "x":0, "y":0.5},
+        {"label":"Up", "x":1, "y":0.5},
+        {"label":"CCW", "x":2, "y":0, "w":0.6, "h":0.5},
+        {"label":"Mute", "x":2.25, "y":0.5},
+        {"label":"CW", "x":2.75, "y":0, "w":0.6, "h":0.5},
+
+        {"label":"Left","x":0, "y":1.5},
+        {"label":"Down","x":1, "y":1.5},
+        {"label":"Right","x":2.25, "y":1.5}
+      ]
+    }
+  }
+}
