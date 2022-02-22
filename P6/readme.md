@@ -3,10 +3,9 @@
 A hand wired 1x2 macropad with 3 layers toggle by a 3 way switch.
 
 Keyboard Maintainer: [Jorand](https://github.com/Jorand)
-
-Hardware Supported: Pro Micro ATmega32U4
-
+Hardware Supported: Pro Micro ATmega32U4 
 Hardware Availability: Custom wierd Arduino Pro Micro
+
 
 ## Pinout
 
@@ -19,11 +18,13 @@ Hardware Availability: Custom wierd Arduino Pro Micro
 
 Make example for these keyboards (after setting up your build environment):
 
-    make mojojo/p6:default
+    make mojojo/p6:vial
+    or
+    qmk compile -kb mojojo/p6 -km vial
 
 Flashing example for this keyboard:
     
-    make mojojo/p6:default:flash
+    make mojojo/p6:vial:flash
 
 ## Bootloader
 
