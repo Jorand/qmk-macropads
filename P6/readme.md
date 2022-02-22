@@ -2,10 +2,9 @@
 
 A hand wired 1x2 macropad with 3 layers toggle by a 3 way switch.
 
-Keyboard Maintainer: [Jorand](https://github.com/Jorand)
-Hardware Supported: Pro Micro ATmega32U4 
-Hardware Availability: Custom wierd Arduino Pro Micro
-
+* Keyboard Maintainer: [Jorand](https://github.com/Jorand)
+* Hardware Supported: Pro Micro ATmega32U4 
+* Hardware Availability: Custom wierd Arduino Pro Micro
 
 ## Pinout
 

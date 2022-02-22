@@ -2,10 +2,9 @@
 
 The is the parent folder for all keyboards made of modified by Mojojo
 
-
-Keyboard Maintainer: [Jorand](https://github.com/Jorand)
-Hardware Supported: Pro Micro ATmega32U4 
-Hardware Availability: DIY
+* Keyboard Maintainer: [Jorand](https://github.com/Jorand)
+* Hardware Supported: Pro Micro ATmega32U4 
+* Hardware Availability: DIY
 
 Make example for these keyboards (after setting up your build environment):
 

@@ -4,9 +4,9 @@
 
 A 1-key foot switch made with a guitar distortion pedal.
 
-Keyboard Maintainer: [Jorand](https://github.com/Jorand)
-Hardware Supported: Pro Micro ATmega32U4
-Hardware Availability: Just plug the pedal switch to pin 2 and GND of your Pro Micro
+* Keyboard Maintainer: [Jorand](https://github.com/Jorand)
+* Hardware Supported: Pro Micro ATmega32U4
+* Hardware Availability: Just plug the pedal switch to pin 2 and GND of your Pro Micro
 
 Make example for these keyboards (after setting up your build environment):
 
