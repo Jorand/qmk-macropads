@@ -21,7 +21,7 @@
 #define PRODUCT_ID      0x0601
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    DIY
-#define PRODUCT         MoJojo RATP Macropad
+#define PRODUCT         MoJojo P6 Macropad
 
 /* key matrix size */
 #define MATRIX_ROWS 1

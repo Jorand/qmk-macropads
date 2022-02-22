@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "ratp.h"
+#include "p6.h"
 
 void bootmagic_lite(void) {
     matrix_scan();

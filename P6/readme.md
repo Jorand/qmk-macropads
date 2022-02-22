@@ -1,9 +1,11 @@
-# MoJojo RATP macropad
+# MoJojo P6 macropad
 
 A hand wired 1x2 macropad with 3 layers toggle by a 3 way switch.
 
 Keyboard Maintainer: [Jorand](https://github.com/Jorand)
+
 Hardware Supported: Pro Micro ATmega32U4
+
 Hardware Availability: Custom wierd Arduino Pro Micro
 
 ## Pinout
@@ -17,11 +19,11 @@ Hardware Availability: Custom wierd Arduino Pro Micro
 
 Make example for these keyboards (after setting up your build environment):
 
-    make mojojo/ratp:default
+    make mojojo/p6:default
 
 Flashing example for this keyboard:
     
-    make mojojo/ratp:default:flash
+    make mojojo/p6:default:flash
 
 ## Bootloader
 
