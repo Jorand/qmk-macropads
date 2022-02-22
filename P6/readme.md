@@ -1,5 +1,7 @@
 # MoJojo P6 macropad
 
+<img alt="P6 MoJojo Keyboard" src="p6.jpg" width="400">
+
 A hand wired 1x2 macropad with 3 layers toggle by a 3 way switch.
 
 * Keyboard Maintainer: [Jorand](https://github.com/Jorand)
