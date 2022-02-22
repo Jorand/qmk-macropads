@@ -1,6 +1,6 @@
 # MoJojo DS1 Keyboards
 
-![MoJojo Keyboards](https://static.roland.com/assets/images/products/gallery/ds1_D_gal.jpg)
+<img alt="ds1 MoJojo Keyboard" src="https://static.roland.com/assets/images/products/gallery/ds1_D_gal.jpg" width="300">
 
 A 1-key foot switch made with a guitar distortion pedal.
 
