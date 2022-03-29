@@ -1,0 +1,12 @@
+{
+  "name": "Mojojo FC5",
+  "vendorId": "0xFEED",
+  "productId": "0x0602",
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 1},
+  "layouts": {
+    "keymap": [
+      [{"w":2,"h":4}, "0,0"]
+    ]
+  }
+}

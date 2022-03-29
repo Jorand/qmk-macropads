@@ -1,0 +1,10 @@
+{
+    "keyboard_name": "Mojojo FC5",
+    "url": "",
+    "maintainer": "Jorand",
+    "layouts": {
+      "LAYOUT": {
+        "layout": [ {"x": 0, "y": 0, "w": 2, "h": 4}]
+      }
+    }
+  }
