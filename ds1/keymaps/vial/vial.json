@@ -3,9 +3,10 @@
   "vendorId": "0xFEED",
   "productId": "0x0600",
   "lighting": "none",
-  "matrix": {"rows": 1, "cols": 1},
+  "matrix": {"rows": 1, "cols": 2},
   "layouts": {
     "keymap": [
+      [{"w":1,"h":1}, "0,1"],
       [{"w":2,"h":4}, "0,0"]
     ]
   }

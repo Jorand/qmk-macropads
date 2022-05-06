@@ -17,6 +17,10 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       [0] = LAYOUT(
-            KC_A
-          )
+            KC_F9, DF(1)
+      ),
+
+      [1] = LAYOUT(
+            SGUI(KC_A), DF(0)
+      )
 };

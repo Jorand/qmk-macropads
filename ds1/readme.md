@@ -8,9 +8,13 @@ A 1-key foot switch made with a guitar distortion pedal.
 * Hardware Supported: Pro Micro ATmega32U4
 * Hardware Availability: Just plug the pedal switch to pin 2 and GND of your Pro Micro
 
+## Compiling the Firmware
+
 Make example for these keyboards (after setting up your build environment):
 
     make mojojo/ds1:default
+    or
+    qmk compile -kb mojojo/ds1 -km vial
 
 Flashing example for this keyboard:
     

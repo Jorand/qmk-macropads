@@ -25,11 +25,11 @@
 
 /* key matrix size */
 #define MATRIX_ROWS 1
-#define MATRIX_COLS 1
+#define MATRIX_COLS 2
 
 /* keyboard default pinout */
 #define DIRECT_PINS { \
-    { D1 } \
+    { D1, D0 } \
 }
 #define UNUSED_PINS
 

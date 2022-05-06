@@ -4,7 +4,10 @@
     "maintainer": "Jorand",
     "layouts": {
       "LAYOUT": {
-        "layout": [ {"x": 0, "y": 0, "w": 2, "h": 4}]
+        "layout": [
+          {"label":"button", "x": 0, "y": 0, "w": 1, "h": 1},
+          {"label":"Foot", "x": 0, "y": 0, "w": 2, "h": 4}
+        ]
       }
     }
   }
