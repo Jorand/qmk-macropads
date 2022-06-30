@@ -21,7 +21,7 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0xDAD3
 #define DEVICE_VER      0x0100
-#define MANUFACTURER    GhostSeven
+#define MANUFACTURER    MoJojo
 #define PRODUCT         Bento
 #define DESCRIPTION     2x3 Macropad with Rotary Encoder
 
