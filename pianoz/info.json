@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "Mojojo FC5",
+    "keyboard_name": "MoJojo PianoZ",
     "url": "",
-    "maintainer": "Jorand",
+    "maintainer": "MoJojo",
     "layouts": {
       "LAYOUT": {
         "layout": [ {"x": 0, "y": 0, "w": 2, "h": 4}]

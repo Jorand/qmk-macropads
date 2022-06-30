@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "fc5.h"
+#include "pianoz.h"
 
 void bootmagic_lite(void) {
     matrix_scan();

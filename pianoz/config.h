@@ -21,7 +21,7 @@
 #define PRODUCT_ID      0x0602
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    DIY
-#define PRODUCT         MoJojo FC5
+#define PRODUCT         MoJojo PianoZ
 
 /* key matrix size */
 #define MATRIX_ROWS 1
@@ -29,7 +29,7 @@
 
 /* keyboard default pinout */
 #define DIRECT_PINS { \
-    { D1 } \
+    { B5 } \
 }
 #define UNUSED_PINS
 
